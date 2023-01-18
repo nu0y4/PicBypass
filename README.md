@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/46450756/211887993-ca1fcbc8-b07c-4959-ab59-1761c920431e.png)
 
 
-文章解说：https://www.freebuf.com/newsend/355025
+文章解说：https://www.freebuf.com/articles/system/355025.html
